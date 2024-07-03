@@ -1,4 +1,4 @@
 
-# Marketing-Analytics-Dashboard
+# Makerting-Analytics-Dashboard
 
 ![](Marketing_Dashboard) 
